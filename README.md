@@ -18,9 +18,9 @@ desconhecidas pela maioria dos usuários
 
 ## Artigo
 
-```
 O artigo foi gerado também com o ChatGPT, utilizando o seguinte prompt:
 
+```
 Crie um artigo sobre as funções SQL pouco conhecidas dos usuários: CUBE e ROLLUP.
 
 - O artigo deve ter uma introdução do que é SQL de no máximo 3 linhas.
