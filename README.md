@@ -41,3 +41,5 @@ laptop to the right side of image with charts and data on it using blue, magenta
 ```
 
 ![image-background](image-background.jpg)
+
+Link para o artigo na plataforma da DIO: [Conhecendo as Joias Escondidas do SQL: CUBE e ROLLUP](https://web.dio.me/articles/conhecendo-as-joias-escondidas-do-sql-cube-e-rollup?back=%2Farticles&open-modal=true&page=1&order=oldest)
